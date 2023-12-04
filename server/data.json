@@ -1,0 +1,51 @@
+{
+    "users": [
+        {
+            "name": "Senthil",
+            "number":"6001",
+            "liter": "10",
+            "rate": "35",
+            "amount":"250"
+          },
+        
+          {
+            "name": "Ayya Durai",
+            "number":"6002",
+            "liter": "20",
+            "rate": "38",
+            "amount":"250"
+          }, 
+          {
+            "name": "Muthunakone",
+            "number":"6003",
+            "liter": "2.5",
+            "rate": "42",
+            "amount":"250"
+          }, 
+          {
+            "name": "Kumersan",
+            "number":"6004",
+            "liter": "4.5",
+            "rate": "39.24",
+            "amount":"250"
+          }
+
+
+    ],
+    "collection": [
+
+        {
+            "name": "Senthil"
+          },
+        
+          {
+            "name": "Ayya Durai"
+          }, 
+          {
+            "name": "Muthunakone"
+          }, 
+          {
+            "name": "Kumersan"
+          }
+    ]
+  }
